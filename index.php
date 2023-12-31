@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Churrasco da Virada</title>
+	<title>Churrasco da Virada </title>
 	<!-- Adicione o link para o arquivo CSS do Bootstrap -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
 	<div class="container">
-		<h1>Churrasco da Virada</h1>
+		<h1>Churrasco da Virada - 2024 + Aniversário do Kadu</h1>
 		<form action="process.php" method="post">
 			<div class="form-group">
 				<label for="num_homem">Número de homens:</label>
